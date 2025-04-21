@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2349861</id>
+      <size>218</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-04-13 10:13:47.710808+00:00</created>
+      <updated>2025-04-13 10:18:57.663787+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>217</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2352188</id>
+          <start>0</start>
+          <stop>217</stop>
+          <url>https://app.cvat.ai/api/jobs/2349861</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>loseon</username>
+        <email>1339280156@qq.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>drink</name>
+          <color>#20a080</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>color</name>
+              <mutable>False</mutable>
+              <input_type>select</input_type>
+              <default_value>white</default_value>
+              <values>white
+black
+green
+blue</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-04-13 10:19:21.012018+00:00</dumped>
+    <original_size>
+      <width>1280</width>
+      <height>720</height>
+    </original_size>
+  </meta>
+  <track id="0" label="drink" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="57.18" ytl="0.00" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">black</attribute>
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="57.18" ytl="0.00" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">black</attribute>
+    </box>
+  </track>
+  <track id="1" label="drink" source="manual">
+    <box frame="1" keyframe="1" outside="0" occluded="0" xtl="71.68" ytl="0.00" xbr="1277.55" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="2" keyframe="1" outside="1" occluded="0" xtl="71.68" ytl="0.00" xbr="1277.55" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="2" label="drink" source="manual">
+    <box frame="2" keyframe="1" outside="0" occluded="0" xtl="72.72" ytl="1.86" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="3" keyframe="1" outside="1" occluded="0" xtl="72.72" ytl="1.86" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="3" label="drink" source="manual">
+    <box frame="3" keyframe="1" outside="0" occluded="0" xtl="79.97" ytl="2.89" xbr="1280.00" ybr="718.75" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="4" keyframe="1" outside="1" occluded="0" xtl="79.97" ytl="2.89" xbr="1280.00" ybr="718.75" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="4" label="drink" source="manual">
+    <box frame="13" keyframe="1" outside="0" occluded="0" xtl="66.50" ytl="8.07" xbr="1279.62" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="14" keyframe="1" outside="1" occluded="0" xtl="66.50" ytl="8.07" xbr="1279.62" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="5" label="drink" source="manual">
+    <box frame="23" keyframe="1" outside="0" occluded="0" xtl="75.82" ytl="1.86" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="24" keyframe="1" outside="1" occluded="0" xtl="75.82" ytl="1.86" xbr="1280.00" ybr="720.00" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="6" label="drink" source="manual">
+    <box frame="33" keyframe="1" outside="0" occluded="0" xtl="69.61" ytl="2.89" xbr="1280.00" ybr="718.75" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="34" keyframe="1" outside="1" occluded="0" xtl="69.61" ytl="2.89" xbr="1280.00" ybr="718.75" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="7" label="drink" source="manual">
+    <box frame="43" keyframe="1" outside="0" occluded="0" xtl="71.68" ytl="1.86" xbr="1280.00" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="44" keyframe="1" outside="1" occluded="0" xtl="71.68" ytl="1.86" xbr="1280.00" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="8" label="drink" source="manual">
+    <box frame="53" keyframe="1" outside="0" occluded="0" xtl="56.14" ytl="4.96" xbr="1279.62" ybr="716.68" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="54" keyframe="1" outside="1" occluded="0" xtl="56.14" ytl="4.96" xbr="1279.62" ybr="716.68" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="9" label="drink" source="manual">
+    <box frame="63" keyframe="1" outside="0" occluded="0" xtl="71.68" ytl="2.89" xbr="1280.00" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="64" keyframe="1" outside="1" occluded="0" xtl="71.68" ytl="2.89" xbr="1280.00" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+  <track id="10" label="drink" source="manual">
+    <box frame="73" keyframe="1" outside="0" occluded="0" xtl="92.40" ytl="1.86" xbr="1279.62" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+    <box frame="74" keyframe="1" outside="1" occluded="0" xtl="92.40" ytl="1.86" xbr="1279.62" ybr="719.78" z_order="0">
+      <attribute name="color">white</attribute>
+    </box>
+  </track>
+</annotations>
